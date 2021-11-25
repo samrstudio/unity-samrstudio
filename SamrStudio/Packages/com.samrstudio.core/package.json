@@ -1,0 +1,7 @@
+{
+  "name": "com.samrstudio.core",
+  "version": "1.0.0",
+  "displayName": "Samr Studio Core",
+  "description": "Contains general use scripts",
+  "unity": "2020.3"
+}
