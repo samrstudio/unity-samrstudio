@@ -1,0 +1,17 @@
+﻿"BasicScripts/C# ScriptableObject"
+/*===============================================================
+Product:    #PROJECTNAME#
+Developer:  #DEVELOPERNAME#
+Company:    #COMPANY#
+Date:       #CREATIONDATE#
+================================================================*/
+using UnityEngine;
+
+namespace #NAMESPACE#
+{
+    [CreateAssetMenu(fileName = "##NAME##", menuName = "##NAME##")]
+    public class ##NAME## : ScriptableObject
+    {
+        
+    }
+}

@@ -1,0 +1,10 @@
+#CREATIONDATE#
+[Time]
+#PROJECTNAME#
+[PlayerSettings.productName]
+#DEVELOPERNAME#
+Eric Mitchell
+#COMPANY#
+[PlayerSettings.companyName]
+#NAMESPACE#
+SamrStudio

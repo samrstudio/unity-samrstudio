@@ -1,0 +1,10 @@
+
+
+        [MenuItem(MENU_ITEM_PATH + ##ITEM##, false, MENU_ITEM_PRIORITY)]
+        private static void Create##TEMPLATE##()
+        {
+            CodeTemplates.CreateFromTemplate (
+                "##TEMPLATE##.cs",
+                @"Packages/com.samrstudio.core/Editor/CodeTemplates/Templates/##TEMPLATE##.txt"
+            );
+        }

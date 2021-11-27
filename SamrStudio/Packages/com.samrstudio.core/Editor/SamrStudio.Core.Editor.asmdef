@@ -1,0 +1,14 @@
+{
+    "name": "SamrStudio.Core.Editor",
+    "rootNamespace": "SamrStudio.Core.Editor",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

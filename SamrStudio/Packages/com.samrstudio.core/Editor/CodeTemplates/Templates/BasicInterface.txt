@@ -1,0 +1,16 @@
+﻿"BasicScripts/C# Interface"
+/*===============================================================
+Product:    #PROJECTNAME#
+Developer:  #DEVELOPERNAME#
+Company:    #COMPANY#
+Date:       #CREATIONDATE#
+================================================================*/
+using UnityEngine;
+
+namespace #NAMESPACE#
+{
+    public interface ##NAME##
+    {
+        
+    }
+}

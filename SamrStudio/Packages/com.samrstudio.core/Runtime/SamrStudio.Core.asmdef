@@ -1,6 +1,6 @@
 {
     "name": "SamrStudio.Core",
-    "rootNamespace": "",
+    "rootNamespace": "SamrStudio.Core",
     "references": [
         "Unity.InputSystem",
         "Unity.Addressables",
