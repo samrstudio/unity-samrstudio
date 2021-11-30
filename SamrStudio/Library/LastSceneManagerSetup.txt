@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/__GAME_ASSETS/Scenes/Management/PersistentManagers.unity
+- path: Assets/__GAME_ASSETS/Scenes/Management/Gameplay.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
