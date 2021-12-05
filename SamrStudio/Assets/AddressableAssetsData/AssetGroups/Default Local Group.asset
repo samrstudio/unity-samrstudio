@@ -25,6 +25,18 @@ MonoBehaviour:
     m_Address: Assets/__GAME_ASSETS/Scenes/Management/Gameplay.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: c49dad05aed49a44bb9bc9740a15a33e
+    m_Address: Assets/__GAME_ASSETS/Events/SceneManagement/ColdStartupEvent.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d05820d95cee724ba17c0abafa74aad
+    m_Address: Assets/__GAME_ASSETS/Scenes/Menus/MainMenu.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9cf093c88681d4e438c0282cbfab27cf
+    m_Address: Assets/__GAME_ASSETS/Events/SceneManagement/LoadMenuEvent.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 98d0c926b095fbd4b8d97d42f4c65d5a, type: 2}
   m_SchemaSet:

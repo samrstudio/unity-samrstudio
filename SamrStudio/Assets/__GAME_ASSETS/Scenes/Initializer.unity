@@ -152,10 +152,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43502fa6cebfe46499df61fb9f2c5d6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _managersScene: {fileID: 0}
-  _menuToLoad: {fileID: 0}
+  _managersScene: {fileID: 11400000, guid: d4e1e42e396f2cb46b1b6cdaf843c68e, type: 2}
+  _menuToLoad: {fileID: 11400000, guid: 88e02cb12bf1b1545a81805e85815276, type: 2}
   _menuLoadEvent:
-    m_AssetGUID: 
+    m_AssetGUID: 9cf093c88681d4e438c0282cbfab27cf
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0

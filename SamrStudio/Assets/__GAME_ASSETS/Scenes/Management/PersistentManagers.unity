@@ -659,7 +659,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SaveSettingsEvent: {fileID: 11400000, guid: ff169149da150dd40848cd773edf9594, type: 2}
-  currentSettings: {fileID: 0}
+  currentSettings: {fileID: 11400000, guid: 8fbf84e34694dfe4fb2313d7b1019919, type: 2}
   _changeMasterVolumeEventChannel: {fileID: 11400000, guid: c6627a2c1d5f03a4286a95867f46ddc0, type: 2}
   _changeSFXVolumeEventChannel: {fileID: 11400000, guid: a0d4d558b960dda4f893291259a18556, type: 2}
   _changeMusicVolumeEventChannel: {fileID: 11400000, guid: eda9593dd825c4a40bc42d0ab2ff0ab2, type: 2}
