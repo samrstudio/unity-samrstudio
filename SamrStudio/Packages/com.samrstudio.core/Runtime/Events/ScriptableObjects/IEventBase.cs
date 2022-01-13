@@ -3,5 +3,6 @@
     interface IEventBase<T>
     {
         public void RaiseEvent(T data);
+        public void RaiseEvent();
     }
 }

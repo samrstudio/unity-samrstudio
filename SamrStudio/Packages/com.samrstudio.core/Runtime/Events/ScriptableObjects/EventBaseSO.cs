@@ -16,5 +16,11 @@ namespace SamrStudio.Core.Events
             if (OnEventRaised != null)
                 OnEventRaised.Invoke(data);
         }
+
+        public void RaiseEvent()
+        {
+            if (OnEventRaised != null)
+                OnEventRaised.Invoke(default);
+        }
     }
 }
